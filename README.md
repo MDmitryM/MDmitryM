@@ -25,7 +25,7 @@
     <h3>Databases</h3>
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgres" width="75" height="75">
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="125" height="50">
-    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="MongoDB" width="125" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" alt="MongoDB" width="125" height="50">
     <img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg?auto=webp&quality=85,75&width=120" alt="Redis" width="125" height="50">
     <span>SQLX (logo not found)</span>
   </div>

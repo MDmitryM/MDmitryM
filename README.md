@@ -1,5 +1,5 @@
-<h1 id="hi-i-m-dmitry-">Hi, I&#39;m Dmitry! 👋</h1>
-<p>Computer science enjoyer...</p>
+<h1 id="hi-i-m-dmitry-">Hi! 👋</h1>
+<p>I'm computer science enjoyer...</p>
 <h2 id="-about-me">About Me</h2>
 <ul>
 <li>A juniour backend developer on GO. Working on my own pet projects using current technologies.</li>

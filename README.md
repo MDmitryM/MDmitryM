@@ -12,7 +12,7 @@
   <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
     <h3>Go & Frameworks 🚀</h3>
     <ul>
-    <li>Golang versions 1.2*</li>
+    <li>Golang versions 1.20+</li>
     <li>fiber</li>
     <li>Gin</li>
     <li>Echo</li>

@@ -11,30 +11,39 @@
   <!-- Column for Go and related technologies -->
   <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
     <h3>Go & Frameworks</h3>
-    <p>Golang versions 1.2*</p>
-    <p>fiber</p>
-    <p>Gin</p>
-    <p>Echo</p>
+    <ul>
+    <li>Golang versions 1.2*</li>
+    <li>fiber</li>
+    <li>Gin</li>
+    <li>Echo</li>
+    </ul>
   </div>
   <!-- Column for Databases -->
   <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
     <h3>Databases and tec's</h3>
-    <p>Postgres (pgx, pgxpool and other)</p>
-    <p>MySql</p>
-    <p>MongoDB</p>
-    <p>Redis</p>
-    <p>GORM, sqlx, sqlc etc.</p>
+    <ul>
+    <li>Postgres (pgx, pgxpool and other)</li>
+    <li>MySql</li>
+    <li>Redis</li>
+    <li>GORM, sqlx, sqlc etc.</li>
+    </ul>
   </div>
   <!-- Column for Docker -->
   <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
     <h3>Docker</h3>
     <p>Docker CLI, Docker Desktop</p>
     <p>Docker Compose</p>
+    <ul>
+    <li>Docker (CLI, Docker Desktop)</li>
+    <li>Docker Compose</li>
+    </ul>
   </div>
   <!-- Cpp and QT -->
   <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
     <h3>Other</h3>
-    <p>C++</p>
-    <p>Qt 4, Qt 5</p>
+    <ul>
+    <li>C++</li>
+    <li>Qt 4, Qt 5</li>
+    </ul>
   </div>
 </div>

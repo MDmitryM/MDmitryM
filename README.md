@@ -44,6 +44,8 @@
     <li>Qt 4, Qt 5</li>
     <li>Git</li>
     <li>Linux (Astra, Ubuntu)</li>
+    <li>Swagger</li>
+    <li>Apache Kafka</li>
     </ul>
   </div>
 </div>

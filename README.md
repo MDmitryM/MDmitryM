@@ -31,8 +31,6 @@
   <!-- Column for Docker -->
   <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
     <h3>Docker</h3>
-    <p>Docker CLI, Docker Desktop</p>
-    <p>Docker Compose</p>
     <ul>
     <li>Docker (CLI, Docker Desktop)</li>
     <li>Docker Compose</li>

@@ -1,8 +1,7 @@
 <h1 id="hi-i-m-dmitry-">Hi! 👋</h1>
-<p>I'm computer science enjoyer...</p>
 <h2 id="-about-me">About Me</h2>
 <ul>
-<li>A junior backend developer working with Go. I build my own pet projects using current technologies.</li>
+<li>I'm backend developer working with Go. I build my own small projects using current technologies.</li>
 <li>I am currently working at a large enterprise as a software developer, with a stack of C++, qt4 and qt5.</li>
 <li>I try to learn new things every day.</li>
 </ul>
